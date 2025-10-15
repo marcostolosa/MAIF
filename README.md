@@ -1,4 +1,4 @@
-```markdown
+
 # MITRE ATT&CK Intelligence Framework
 
 Advanced CLI tool for querying and analyzing MITRE ATT&CK techniques. Built for threat hunters, red teamers, and security researchers who need fast, filterable access to ATT&CK data.
